@@ -1,0 +1,14 @@
+{
+  "name": "@nanlabs/eslint-config-custom",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@nanlabs/eslint-config": "0.3.2"
+  },
+  "devDependencies": {}
+}
